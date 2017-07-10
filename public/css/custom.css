@@ -8,8 +8,8 @@
   overflow-y: auto;
   font-family: "PT Sans", Helvetica, Arial, sans-serif;
   font-size: .875rem; /* 15px */
-  color: #74b93f;
-  background-color: #202020;
+  color: white;
+  background-color: #74b93f;
   -webkit-transition: all .3s ease-in-out;
           transition: all .3s ease-in-out;
 }
