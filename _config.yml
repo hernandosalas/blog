@@ -7,8 +7,8 @@ permalink:           pretty
 title:               'itnetX Belgium'
 tagline:             'Technical Blog'
 description:         'In-depth technical content provided by the itnetX team'
-url:                 http://www.itnetx.be
-baseurl:             ''
+url:                 'http://www.itnetx.be'
+baseurl:             'https://itnetxbe.github.io/blog'
 paginate:            5
 
 # About/contact
