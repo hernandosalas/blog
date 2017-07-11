@@ -1,21 +1,18 @@
----
-layout: page
-title: Articles
----
+--- layout: page title: Articles ---
 
 <div class="posts">
     <ul>
         {% for post in site.posts %}
-        <ul>
-            <li>
 
-                <a href="{{ site.baseurl }}/{{ post.url }}">
+        <li>
+
+            <a href="{{ site.baseurl }}/{{ post.url }}">
         {{ post.date | date_to_string }} - {{ post.title }} ({{ post.author }})
       </a>
-            </li>
+        </li>
 
 
 
-            {% endfor %}
-        </ul>
+        {% endfor %}
+    </ul>
 </div>
