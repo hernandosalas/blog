@@ -1,0 +1,16 @@
+---
+layout: page
+title: posts
+---
+
+<div class="posts">
+    {% for post in site.posts %}
+    <div class="post">
+
+        <a href="{{ site.baseurl }}/{{ post.url }}">
+        {{ post.date | date_to_string }} - {{ post.title }} ({{ post.author }})
+      </a>
+
+    </div>
+    {% endfor %}
+</div>
