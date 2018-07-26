@@ -7,14 +7,14 @@ permalink:           pretty
 title:               'itnetX Belgium'
 tagline:             'Technical Blog'
 description:         'In-depth technical content provided by the itnetX team'
-url:                 'http://www.itnetx.be'
-baseurl:             'https://itnetxbe.github.io/blog'
+url:                 'http://hernandosalas.github.io'
+baseurl:             'https://hernandosalas.github.io'
 paginate:            5
 
 # About/contact
 author:
   name:              itnetXBE
-  url:               https://twitter.com/itnetX_BE
+  url:               https://hernandosalas.github.io
   email:             info@itnetx.be
 
 # Custom vars
