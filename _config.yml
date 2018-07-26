@@ -4,18 +4,22 @@
 permalink:           pretty
 
 # Setup
-title:               'itnetX Belgium'
-tagline:             'Technical Blog'
+title:               Hernando Salas
+tagline:             'Data Scientist and Software Engineer.'
 description:         'In-depth technical content provided by the itnetX team'
 url:                 'http://hernandosalas.github.io'
 baseurl:             'https://hernandosalas.github.io'
+blogurl:             '/blog'
 paginate:            5
+
+# Pagination
+paginate_path:       'blog/page:num/'
 
 # About/contact
 author:
-  name:              itnetXBE
+  name:              Hernando Salas
   url:               https://hernandosalas.github.io
-  email:             info@itnetx.be
+  email:             hernandosalas@gmail.com
 
 # Custom vars
 version:             1.0.0
