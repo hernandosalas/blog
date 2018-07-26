@@ -19,3 +19,28 @@ author:
 
 # Custom vars
 version:             1.0.0
+
+#Gems
+gems:
+  - jekyll-paginate
+  - jekyll-assets
+  - jekyll-seo-tag
+
+# Compress.html
+compress_html:
+  comments: ["<!-- ", " -->"]
+
+
+# jekyll-assets
+assets:
+  compress:
+    js: true
+    css: true
+
+  assets:
+    - "*.png"
+    - "*.jpeg"
+    - "*.jpg"
+
+  sources:
+    - public/project-images/card-headers
