@@ -6,7 +6,7 @@ permalink:           pretty
 # Setup
 title:               Hernando Salas
 tagline:             'Data Scientist and Software Engineer.'
-description:         'In-depth technical content provided by the itnetX team'
+description:         'The internet home of Hernando Salas. Data Scientist. Software Engineer.'
 url:                 'http://hernandosalas.github.io'
 baseurl:             'https://hernandosalas.github.io'
 blogurl:             '/blog'
